@@ -7,4 +7,9 @@
 - [x] _Tutorial Django [Parte 1]._
 - [X] _Tutorial Django [Parte 2]._
 - [x] _Tutorial Django [Parte 3]._
-- [] _Tutorial Django [Parte 4]._
+- [x] _Tutorial Django [Parte 4]._
+- [] _(OPCIONAL)Tutorial Django [Parte 5]._
+- [] _(OPCIONAL)Tutorial Django [Parte 6]._
+- [] _(OPCIONAL)Tutorial Django [Parte 7]._
+- [] _(OPCIONAL)Tutorial Django [Parte 8]._
+
