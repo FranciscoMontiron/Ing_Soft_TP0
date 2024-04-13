@@ -1,8 +1,6 @@
-![](https://drive.google.com/file/d/1LqLsRkXAmNwLV8GmnSy2eU-uJOXUxj5u/view?usp=sharing"")
+# Ingenieria y calidad de Software > 2024
 
-## **Ingenieria y calidad de Software **  _2024_ 
-
-# Francisco Montiron
+## Francisco Montiron :man_technologist:
 
 - [x] _Crear repo con README que contenga nombre y apellido._
 - [] _Tutorial Django [Parte 1]._
